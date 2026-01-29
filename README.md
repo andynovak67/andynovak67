@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Andy 👋
+
+😸 **Economista** |
+🎨 **Me gusta el arte en todas sus formas** |
+🎮 **Fan de los videojuegos**
+
+### Vias de contacto
+
+✉️ Correo: andrea.diazdesalas@gmail.com
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/andynovak67/andynovak67)
 
 <!--
 **andynovak67/andynovak67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
